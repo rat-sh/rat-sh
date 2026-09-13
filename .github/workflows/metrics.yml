@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@v3.34.0
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.svg
 

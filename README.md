@@ -56,9 +56,9 @@
 
 | Category | Stack |
 |---|---|
-| Languages | C, C++, Java, Python, JavaScript, TypeScript, Kotlin, Dart |
-| Frontend & Mobile | HTML, CSS, React, Next.js, React Native, Flutter, Tailwind |
-| Backend & Databases | Node.js, Express, Django, Flask, Spring, FastAPI, MySQL, PostgreSQL, Redis, MongoDB |
+| Languages | C++, Java, Python, TypeScript, Golang |
+| Frontend & Mobile | Next.js, React Native,|
+| Backend & Databases | Django, Spring, FastAPI, MySQL, PostgreSQL, Redis |
 | Cloud & DevOps | Git, GitHub, Docker, Linux, AWS, Firebase, Supabase, Jenkins, Grafana, Figma |
 | AI & Others | PyTorch, OpenCV, Arduino |
 

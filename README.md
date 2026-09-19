@@ -1,79 +1,48 @@
-<h1 align="center">Rathi Ghosh</h1>
-<h3 align="center">Full-Stack Developer • Product Builder • Problem Solver</h3>
+# Rathi Ghosh
 
-<p align="center">
-  I build practical software, explore emerging technologies, and turn ideas into working products.
-</p>
+**Full-Stack Engineer**
 
-<p align="center">
-  <a href="https://portfolio-0vzv.onrender.com/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/rat-sh?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@cserathighosh">Medium</a> &nbsp;·&nbsp;
-  <a href="mailto:cserathighosh@gmail.com">Email</a>
-</p>
+I build production-ready web applications and AI-powered products.  
+Strong focus on clean backend architecture, modern frontend, and practical AI integration.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rat-sh&label=Profile+Views&color=grey&style=flat-square" alt="Profile views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/rat-sh?label=Followers&style=flat-square&color=grey" alt="Followers"/>
-</p>
+[Portfolio](https://portfolio-0vzv.onrender.com) · [Medium](https://medium.com/@cserathighosh) · [Email](mailto:cserathighosh@gmail.com)
 
 ---
 
-### About Me
+### Currently
 
-- Currently building **Xpert** — an AI-powered education platform
-- Researching **Post-Quantum Cryptography**
-- Focused on full-stack development, AI-driven products, and secure systems
-- Prefer depth over breadth in technology choices
-- Open to collaborating on meaningful software projects
-
-> 🔽 Real, working projects are pinned below on this profile — that's the actual proof of work.
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rat-sh&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rat-sh&theme=tokyonight" alt="GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rat-sh/rat-sh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rat-sh/rat-sh/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rat-sh/rat-sh/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+- Building **[Xpert](https://github.com/rat-sh/xpert)** — AI-powered education platform for independent teachers  
+- Researching Post-Quantum Cryptography  
+- Open to full-stack and backend roles with AI components
 
 ---
 
 ### Tech Stack
 
-| Category | Stack |
-|---|---|
-| Languages | C++, Java, Python, TypeScript, Golang |
-| Frontend & Mobile | Next.js, React Native,|
-| Backend & Databases | Django, Spring, FastAPI, MySQL, PostgreSQL, Redis |
-| Cloud & DevOps | Git, GitHub, Docker, Linux, AWS, Firebase, Supabase, Jenkins, Grafana, Figma |
-| AI & Others | PyTorch, OpenCV, Arduino |
+**Frontend**  
+Next.js · TypeScript · Tailwind CSS · Three.js · Expo
+
+**Backend**  
+NestJS · Java 21 · Spring Boot · Spring Security (JWT/OAuth2) · Spring Data JPA · Flyway · OpenAPI
+
+**Database**  
+PostgreSQL · Oracle-compatible SQL design
+
+**AI**  
+Python · FastAPI · LangChain · LangGraph · OpenAI / Azure OpenAI · pgvector / Chroma · document processing (PyMuPDF, Unstructured)
+
+**Infrastructure & DevOps**  
+Docker · AWS (ECS/EKS, RDS, S3, CloudWatch) · GitHub Actions · Jenkins
+
+**Testing**  
+JUnit 5 · Mockito · Testcontainers · Pytest · Playwright
 
 ---
 
 ### Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/rathi-ghosh-894a4a2b1">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/cserathi">Twitter</a> &nbsp;·&nbsp;
-  <a href="https://www.hackerrank.com/profile/cserathighosh">HackerRank</a> &nbsp;·&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/cserathbok3">GeeksforGeeks</a> &nbsp;·&nbsp;
-  <a href="https://dev.to/ratsh25">Dev.to</a>
-</p>
+[LinkedIn](https://linkedin.com/in/rathi-ghosh-894a4a2b1) · [Twitter](https://twitter.com/cserathi) · [HackerRank](https://www.hackerrank.com/profile/cserathighosh)
 
-<p align="center">
-  <i>Build things. Learn deeply. Keep improving.</i>
-</p>
+---
+
+*Build things. Learn deeply. Keep improving.*

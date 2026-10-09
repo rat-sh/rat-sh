@@ -17,7 +17,7 @@ Strong focus on clean backend architecture, modern frontend, and practical AI in
 
 ---
 
-### Tech Stack
+### Tech Stack with AI uses
 
 **Frontend**  
 Next.js · TypeScript · Tailwind CSS · Three.js · Expo

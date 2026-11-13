@@ -11,7 +11,7 @@ Strong focus on clean backend architecture, modern frontend, and practical AI in
 
 ### Currently
 
-- Building **[SOLAR_BEAR](https://github.com/rat-sh/solar_bear)** — AI-powered cloud IDE 
+- Building **[x-pert2](https://github.com/rat-sh/x-pert2)** — An educating software for teacher and student.(On going)
 - Researching Post-Quantum Cryptography  
 - Open to full-stack and backend roles with AI components
 
